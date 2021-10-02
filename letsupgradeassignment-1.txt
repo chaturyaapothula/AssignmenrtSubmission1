@@ -1,0 +1,10 @@
+package LetsUpgrade;
+
+public class Myintro {
+
+	public static void main(String[] args) {
+		System.out.println("My name is chaturya from Rajamundry.\nI have completed my graduation in 2020.\nI am from CSE background.\nI am good at html,css,javascript, basic of core java.\nMy hobbies are reading books, cooking, drawing.");
+
+	}
+
+}
